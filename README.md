@@ -1,4 +1,4 @@
-# Project2ML-Tesla-Stock-Price-PredictionDS
+# Project4ML-Tesla-Stock-Price-PredictionDS
 
 # Tesla Stock Price Prediction using Deep Learning
 
